@@ -27,6 +27,5 @@ An intelligent book recommendation engine that leverages **Large Language Models
 <div align="center">
   <img src="1.png" alt="Recommendation Interface 1" width="45%">
   <img src="2.png" alt="Recommendation Interface 2" width="45%">
-  <p><em>Left: Gradio interface with filters | Right: Example recommendations</em></p>
 </div>
 
